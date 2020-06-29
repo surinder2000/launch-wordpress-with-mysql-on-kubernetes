@@ -1,2 +1,2 @@
-# launch-wordpress-with-mysql-on-kubernetes
-Launch wordpress with mysql database on top of kubernetes and make the data persistent using PVC
+# Launch Wordpress with Mysql on Kubernetes
+Launching wordpress with mysql database on top of kubernetes and making the data persistent using PVC
