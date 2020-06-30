@@ -9,4 +9,4 @@ If you are in the same directory where the files are kept then use
     
 Otherwise use
 
-    kubectl create -k path_of_file
+    kubectl create -k path_of_file_directory
